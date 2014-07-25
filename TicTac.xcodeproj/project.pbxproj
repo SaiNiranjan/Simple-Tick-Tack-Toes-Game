@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B43E1397165CC61800E1943C /* InfoAppController.m in Sources */ = {isa = PBXBuildFile; fileRef = B43E1395165CC61700E1943C /* InfoAppController.m */; };
+		B43E1398165CC61800E1943C /* InfoAppController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B43E1396165CC61800E1943C /* InfoAppController.xib */; };
+		B43E13AC165D087700E1943C /* menu1.png in Resources */ = {isa = PBXBuildFile; fileRef = B43E13AB165D087700E1943C /* menu1.png */; };
+		B452448C164A16EE00E3156D /* TicTacForOnePlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = B452448A164A16EE00E3156D /* TicTacForOnePlayer.m */; };
+		B452448D164A16EE00E3156D /* TicTacForOnePlayer.xib in Resources */ = {isa = PBXBuildFile; fileRef = B452448B164A16EE00E3156D /* TicTacForOnePlayer.xib */; };
+		B47D68F31675A11000236E93 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C2671216551515004954E0 /* Default.png */; };
+		B47D68F41675A11A00236E93 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C2671416551521004954E0 /* Default@2x.png */; };
+		B4A43B30165DF1250077755C /* back-button.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A43B29165DF1250077755C /* back-button.png */; };
+		B4A43B31165DF1250077755C /* Bubble-tapper.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A43B2A165DF1250077755C /* Bubble-tapper.png */; };
+		B4A43B32165DF1250077755C /* driving-licence.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A43B2B165DF1250077755C /* driving-licence.png */; };
+		B4A43B33165DF1250077755C /* en-queen.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A43B2C165DF1250077755C /* en-queen.png */; };
+		B4A43B34165DF1250077755C /* greetings.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A43B2D165DF1250077755C /* greetings.png */; };
+		B4A43B35165DF1250077755C /* Logos-caption.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A43B2E165DF1250077755C /* Logos-caption.png */; };
+		B4A43B36165DF1250077755C /* Square-Puzzles.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A43B2F165DF1250077755C /* Square-Puzzles.png */; };
+		B4A797E31660D26F0035A67D /* Select-Grid.png in Resources */ = {isa = PBXBuildFile; fileRef = B4A797E21660D26F0035A67D /* Select-Grid.png */; };
+		B4AACF80165A3AB900C39071 /* More-Apps.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AACF78165A3AB900C39071 /* More-Apps.png */; };
+		B4AACF81165A3AB900C39071 /* near-by.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AACF79165A3AB900C39071 /* near-by.png */; };
+		B4AACF82165A3AB900C39071 /* one-player.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AACF7A165A3AB900C39071 /* one-player.png */; };
+		B4AACF83165A3AB900C39071 /* Options.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AACF7B165A3AB900C39071 /* Options.png */; };
+		B4AACF84165A3AB900C39071 /* Reset.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AACF7C165A3AB900C39071 /* Reset.png */; };
+		B4AACF85165A3AB900C39071 /* start_button.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AACF7D165A3AB900C39071 /* start_button.png */; };
+		B4AACF86165A3AB900C39071 /* Two-Player.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AACF7E165A3AB900C39071 /* Two-Player.png */; };
+		B4AC76A2163545A200652DF1 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B4AC76A1163545A200652DF1 /* Default-568h@2x.png */; };
 		B4AE84BA16329FBE00D99FBA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4AE84B916329FBE00D99FBA /* UIKit.framework */; };
 		B4AE84BC16329FBE00D99FBA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4AE84BB16329FBE00D99FBA /* Foundation.framework */; };
 		B4AE84BE16329FBE00D99FBA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4AE84BD16329FBE00D99FBA /* CoreGraphics.framework */; };
@@ -20,6 +43,54 @@
 		B4AE84DA16329FBF00D99FBA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4AE84BB16329FBE00D99FBA /* Foundation.framework */; };
 		B4AE84E216329FBF00D99FBA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B4AE84E016329FBF00D99FBA /* InfoPlist.strings */; };
 		B4AE84E516329FBF00D99FBA /* TicTacTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B4AE84E416329FBF00D99FBA /* TicTacTests.m */; };
+		B4AE84F31632AE6900D99FBA /* OnePlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = B4AE84F11632AE6900D99FBA /* OnePlayer.m */; };
+		B4AE84F41632AE6900D99FBA /* OnePlayer.xib in Resources */ = {isa = PBXBuildFile; fileRef = B4AE84F21632AE6900D99FBA /* OnePlayer.xib */; };
+		B4AE84F81632B0D800D99FBA /* TwoPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = B4AE84F61632B0D800D99FBA /* TwoPlayer.m */; };
+		B4AE84F91632B0D800D99FBA /* TwoPlayer.xib in Resources */ = {isa = PBXBuildFile; fileRef = B4AE84F71632B0D800D99FBA /* TwoPlayer.xib */; };
+		B4AE84FD1632B2DA00D99FBA /* TicTacGame.m in Sources */ = {isa = PBXBuildFile; fileRef = B4AE84FB1632B2DA00D99FBA /* TicTacGame.m */; };
+		B4AE84FE1632B2DA00D99FBA /* TicTacGame.xib in Resources */ = {isa = PBXBuildFile; fileRef = B4AE84FC1632B2DA00D99FBA /* TicTacGame.xib */; };
+		B4BA7881163664AE0037D92F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BA7880163664AE0037D92F /* AVFoundation.framework */; };
+		B4BA788E16368B5E0037D92F /* Apple_Ring.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B4BA788D16368B5E0037D92F /* Apple_Ring.mp3 */; };
+		B4BA789016368DD50037D92F /* Beep.aiff in Resources */ = {isa = PBXBuildFile; fileRef = B4BA788F16368DD50037D92F /* Beep.aiff */; };
+		B4BA789216368F9E0037D92F /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BA789116368F9E0037D92F /* GameKit.framework */; };
+		B4BBDCCD165F7C38005F085F /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BBDCCC165F7C38005F085F /* MessageUI.framework */; };
+		B4C266F81654C667004954E0 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266E41654C667004954E0 /* 1.png */; };
+		B4C266F91654C667004954E0 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266E51654C667004954E0 /* 2.png */; };
+		B4C266FA1654C667004954E0 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266E61654C667004954E0 /* 3.png */; };
+		B4C266FB1654C667004954E0 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266E71654C667004954E0 /* 4.png */; };
+		B4C266FC1654C667004954E0 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266E81654C667004954E0 /* 5.png */; };
+		B4C266FE1654C667004954E0 /* bg1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266EA1654C667004954E0 /* bg1.png */; };
+		B4C266FF1654C667004954E0 /* bg2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266EB1654C667004954E0 /* bg2.png */; };
+		B4C267001654C667004954E0 /* bg3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266EC1654C667004954E0 /* bg3.png */; };
+		B4C267011654C667004954E0 /* bg4.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C266ED1654C667004954E0 /* bg4.png */; };
+		B4C267111654DD52004954E0 /* bg5.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C267101654DD52004954E0 /* bg5.png */; };
+		B4C3A0C3165B42FF003F1327 /* 1024-X-1024-1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0BC165B42FF003F1327 /* 1024-X-1024-1.png */; };
+		B4C3A0C4165B42FF003F1327 /* 114-X-114.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0BD165B42FF003F1327 /* 114-X-114.png */; };
+		B4C3A0C5165B42FF003F1327 /* 3-x-3-Grid.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0BE165B42FF003F1327 /* 3-x-3-Grid.png */; };
+		B4C3A0C6165B42FF003F1327 /* 4-X-4-Grid.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0BF165B42FF003F1327 /* 4-X-4-Grid.png */; };
+		B4C3A0C7165B42FF003F1327 /* 5-X-5-Grid.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0C0165B42FF003F1327 /* 5-X-5-Grid.png */; };
+		B4C3A0C8165B42FF003F1327 /* 512-X-512.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0C1165B42FF003F1327 /* 512-X-512.png */; };
+		B4C3A0C9165B42FF003F1327 /* 57-X-57.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0C2165B42FF003F1327 /* 57-X-57.png */; };
+		B4C3A0CB165B439C003F1327 /* 57-X-57.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C700AE165653490030CBB6 /* 57-X-57.png */; };
+		B4C3A0CC165B43A7003F1327 /* 114-X-114.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C700B1165653530030CBB6 /* 114-X-114.png */; };
+		B4C3A0CE165B4661003F1327 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4C3A0CD165B4660003F1327 /* iAd.framework */; };
+		B4C3A0D9165BA2C6003F1327 /* 320-X-420.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0D8165BA2C6003F1327 /* 320-X-420.png */; };
+		B4C3A0E6165BB72C003F1327 /* 320-X-420-22.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0E4165BB72C003F1327 /* 320-X-420-22.png */; };
+		B4C3A0E7165BB72C003F1327 /* 320-X-4200.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0E5165BB72C003F1327 /* 320-X-4200.png */; };
+		B4C3A0E9165BB8E5003F1327 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C3A0E8165BB8E5003F1327 /* bg.png */; };
+		B4C95BF3164BC78900A65CD5 /* TicTacGrid4.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C95BF1164BC78900A65CD5 /* TicTacGrid4.m */; };
+		B4C95BF4164BC78900A65CD5 /* TicTacGrid4.xib in Resources */ = {isa = PBXBuildFile; fileRef = B4C95BF2164BC78900A65CD5 /* TicTacGrid4.xib */; };
+		B4C95BFD164BDAA700A65CD5 /* TicTacGrid5.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C95BFB164BDAA700A65CD5 /* TicTacGrid5.m */; };
+		B4C95BFE164BDAA700A65CD5 /* TicTacGrid5.xib in Resources */ = {isa = PBXBuildFile; fileRef = B4C95BFC164BDAA700A65CD5 /* TicTacGrid5.xib */; };
+		B4CE2CB6164CD25C009C0241 /* 300-X-300.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CB5164CD25C009C0241 /* 300-X-300.png */; };
+		B4CE2CC4164CD8C7009C0241 /* 320-X-320.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CC3164CD8C7009C0241 /* 320-X-320.png */; };
+		B4CE2CC6164CD8E3009C0241 /* 300-X-300-1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CC5164CD8E3009C0241 /* 300-X-300-1.png */; };
+		B4CE2CE0164D002D009C0241 /* 100-O.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CDA164D002D009C0241 /* 100-O.png */; };
+		B4CE2CE1164D002D009C0241 /* 100-X.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CDB164D002D009C0241 /* 100-X.png */; };
+		B4CE2CE2164D002D009C0241 /* 60-O.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CDC164D002D009C0241 /* 60-O.png */; };
+		B4CE2CE3164D002D009C0241 /* 60-X.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CDD164D002D009C0241 /* 60-X.png */; };
+		B4CE2CE4164D002D009C0241 /* 80-O.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CDE164D002D009C0241 /* 80-O.png */; };
+		B4CE2CE5164D002D009C0241 /* 80-X.png in Resources */ = {isa = PBXBuildFile; fileRef = B4CE2CDF164D002D009C0241 /* 80-X.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,25 +104,103 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B4AE84B516329FBE00D99FBA /* TicTac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicTac.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B43E1394165CC61700E1943C /* InfoAppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoAppController.h; sourceTree = "<group>"; };
+		B43E1395165CC61700E1943C /* InfoAppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoAppController.m; sourceTree = "<group>"; };
+		B43E1396165CC61800E1943C /* InfoAppController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = InfoAppController.xib; sourceTree = "<group>"; };
+		B43E13AB165D087700E1943C /* menu1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu1.png; sourceTree = "<group>"; };
+		B4524489164A16EE00E3156D /* TicTacForOnePlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TicTacForOnePlayer.h; sourceTree = SOURCE_ROOT; };
+		B452448A164A16EE00E3156D /* TicTacForOnePlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = TicTacForOnePlayer.m; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		B452448B164A16EE00E3156D /* TicTacForOnePlayer.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TicTacForOnePlayer.xib; sourceTree = SOURCE_ROOT; };
+		B4A43B29165DF1250077755C /* back-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-button.png"; sourceTree = "<group>"; };
+		B4A43B2A165DF1250077755C /* Bubble-tapper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bubble-tapper.png"; sourceTree = "<group>"; };
+		B4A43B2B165DF1250077755C /* driving-licence.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "driving-licence.png"; sourceTree = "<group>"; };
+		B4A43B2C165DF1250077755C /* en-queen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "en-queen.png"; sourceTree = "<group>"; };
+		B4A43B2D165DF1250077755C /* greetings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greetings.png; sourceTree = "<group>"; };
+		B4A43B2E165DF1250077755C /* Logos-caption.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Logos-caption.png"; sourceTree = "<group>"; };
+		B4A43B2F165DF1250077755C /* Square-Puzzles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Square-Puzzles.png"; sourceTree = "<group>"; };
+		B4A797E21660D26F0035A67D /* Select-Grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Select-Grid.png"; sourceTree = "<group>"; };
+		B4AACF78165A3AB900C39071 /* More-Apps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "More-Apps.png"; sourceTree = "<group>"; };
+		B4AACF79165A3AB900C39071 /* near-by.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "near-by.png"; sourceTree = "<group>"; };
+		B4AACF7A165A3AB900C39071 /* one-player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "one-player.png"; sourceTree = "<group>"; };
+		B4AACF7B165A3AB900C39071 /* Options.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Options.png; sourceTree = "<group>"; };
+		B4AACF7C165A3AB900C39071 /* Reset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Reset.png; sourceTree = "<group>"; };
+		B4AACF7D165A3AB900C39071 /* start_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_button.png; sourceTree = "<group>"; };
+		B4AACF7E165A3AB900C39071 /* Two-Player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Two-Player.png"; sourceTree = "<group>"; };
+		B4AC76A1163545A200652DF1 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		B4AE84B516329FBE00D99FBA /* Tick-Tack-Toes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tick-Tack-Toes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4AE84B916329FBE00D99FBA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		B4AE84BB16329FBE00D99FBA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B4AE84BD16329FBE00D99FBA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		B4AE84C116329FBE00D99FBA /* TicTac-Info.plist */ = {isa = PBXFileReference; path = "TicTac-Info.plist"; sourceTree = "<group>"; };
+		B4AE84C116329FBE00D99FBA /* TicTac-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TicTac-Info.plist"; sourceTree = "<group>"; };
 		B4AE84C316329FBE00D99FBA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B4AE84C516329FBE00D99FBA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B4AE84C716329FBE00D99FBA /* TicTac-Prefix.pch */ = {isa = PBXFileReference; path = "TicTac-Prefix.pch"; sourceTree = "<group>"; };
-		B4AE84C816329FBE00D99FBA /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		B4AE84C716329FBE00D99FBA /* TicTac-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TicTac-Prefix.pch"; sourceTree = "<group>"; };
+		B4AE84C816329FBE00D99FBA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B4AE84C916329FBE00D99FBA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B4AE84CB16329FBF00D99FBA /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		B4AE84CB16329FBF00D99FBA /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		B4AE84CC16329FBF00D99FBA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B4AE84CF16329FBF00D99FBA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		B4AE84D616329FBF00D99FBA /* TicTacTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4AE84D716329FBF00D99FBA /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		B4AE84DF16329FBF00D99FBA /* TicTacTests-Info.plist */ = {isa = PBXFileReference; path = "TicTacTests-Info.plist"; sourceTree = "<group>"; };
+		B4AE84DF16329FBF00D99FBA /* TicTacTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TicTacTests-Info.plist"; sourceTree = "<group>"; };
 		B4AE84E116329FBF00D99FBA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		B4AE84E316329FBF00D99FBA /* TicTacTests.h */ = {isa = PBXFileReference; path = TicTacTests.h; sourceTree = "<group>"; };
+		B4AE84E316329FBF00D99FBA /* TicTacTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TicTacTests.h; sourceTree = "<group>"; };
 		B4AE84E416329FBF00D99FBA /* TicTacTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TicTacTests.m; sourceTree = "<group>"; };
+		B4AE84F01632AE6800D99FBA /* OnePlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnePlayer.h; sourceTree = "<group>"; };
+		B4AE84F11632AE6900D99FBA /* OnePlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnePlayer.m; sourceTree = "<group>"; };
+		B4AE84F21632AE6900D99FBA /* OnePlayer.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = OnePlayer.xib; sourceTree = "<group>"; };
+		B4AE84F51632B0D800D99FBA /* TwoPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoPlayer.h; sourceTree = "<group>"; };
+		B4AE84F61632B0D800D99FBA /* TwoPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoPlayer.m; sourceTree = "<group>"; };
+		B4AE84F71632B0D800D99FBA /* TwoPlayer.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TwoPlayer.xib; sourceTree = "<group>"; };
+		B4AE84FA1632B2D900D99FBA /* TicTacGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TicTacGame.h; sourceTree = "<group>"; };
+		B4AE84FB1632B2DA00D99FBA /* TicTacGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TicTacGame.m; sourceTree = "<group>"; };
+		B4AE84FC1632B2DA00D99FBA /* TicTacGame.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TicTacGame.xib; sourceTree = "<group>"; };
+		B4BA7880163664AE0037D92F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		B4BA788D16368B5E0037D92F /* Apple_Ring.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Apple_Ring.mp3; sourceTree = "<group>"; };
+		B4BA788F16368DD50037D92F /* Beep.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Beep.aiff; sourceTree = "<group>"; };
+		B4BA789116368F9E0037D92F /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		B4BBDCCC165F7C38005F085F /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		B4C266E41654C667004954E0 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		B4C266E51654C667004954E0 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		B4C266E61654C667004954E0 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		B4C266E71654C667004954E0 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		B4C266E81654C667004954E0 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		B4C266EA1654C667004954E0 /* bg1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg1.png; sourceTree = "<group>"; };
+		B4C266EB1654C667004954E0 /* bg2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg2.png; sourceTree = "<group>"; };
+		B4C266EC1654C667004954E0 /* bg3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg3.png; sourceTree = "<group>"; };
+		B4C266ED1654C667004954E0 /* bg4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg4.png; sourceTree = "<group>"; };
+		B4C267101654DD52004954E0 /* bg5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg5.png; sourceTree = "<group>"; };
+		B4C2671216551515004954E0 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		B4C2671416551521004954E0 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		B4C3A0BC165B42FF003F1327 /* 1024-X-1024-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1024-X-1024-1.png"; sourceTree = "<group>"; };
+		B4C3A0BD165B42FF003F1327 /* 114-X-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "114-X-114.png"; sourceTree = "<group>"; };
+		B4C3A0BE165B42FF003F1327 /* 3-x-3-Grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3-x-3-Grid.png"; sourceTree = "<group>"; };
+		B4C3A0BF165B42FF003F1327 /* 4-X-4-Grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4-X-4-Grid.png"; sourceTree = "<group>"; };
+		B4C3A0C0165B42FF003F1327 /* 5-X-5-Grid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5-X-5-Grid.png"; sourceTree = "<group>"; };
+		B4C3A0C1165B42FF003F1327 /* 512-X-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "512-X-512.png"; sourceTree = "<group>"; };
+		B4C3A0C2165B42FF003F1327 /* 57-X-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "57-X-57.png"; sourceTree = "<group>"; };
+		B4C3A0CD165B4660003F1327 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
+		B4C3A0D8165BA2C6003F1327 /* 320-X-420.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "320-X-420.png"; sourceTree = "<group>"; };
+		B4C3A0E4165BB72C003F1327 /* 320-X-420-22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "320-X-420-22.png"; sourceTree = "<group>"; };
+		B4C3A0E5165BB72C003F1327 /* 320-X-4200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "320-X-4200.png"; sourceTree = "<group>"; };
+		B4C3A0E8165BB8E5003F1327 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		B4C700AE165653490030CBB6 /* 57-X-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "57-X-57.png"; sourceTree = "<group>"; };
+		B4C700B1165653530030CBB6 /* 114-X-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "114-X-114.png"; sourceTree = "<group>"; };
+		B4C95BF0164BC78900A65CD5 /* TicTacGrid4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TicTacGrid4.h; sourceTree = "<group>"; };
+		B4C95BF1164BC78900A65CD5 /* TicTacGrid4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = TicTacGrid4.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		B4C95BF2164BC78900A65CD5 /* TicTacGrid4.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TicTacGrid4.xib; sourceTree = "<group>"; };
+		B4C95BFA164BDAA700A65CD5 /* TicTacGrid5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TicTacGrid5.h; sourceTree = "<group>"; };
+		B4C95BFB164BDAA700A65CD5 /* TicTacGrid5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = TicTacGrid5.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		B4C95BFC164BDAA700A65CD5 /* TicTacGrid5.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TicTacGrid5.xib; sourceTree = "<group>"; };
+		B4CE2CB5164CD25C009C0241 /* 300-X-300.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "300-X-300.png"; sourceTree = "<group>"; };
+		B4CE2CC3164CD8C7009C0241 /* 320-X-320.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "320-X-320.png"; sourceTree = "<group>"; };
+		B4CE2CC5164CD8E3009C0241 /* 300-X-300-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "300-X-300-1.png"; sourceTree = "<group>"; };
+		B4CE2CDA164D002D009C0241 /* 100-O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "100-O.png"; sourceTree = "<group>"; };
+		B4CE2CDB164D002D009C0241 /* 100-X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "100-X.png"; sourceTree = "<group>"; };
+		B4CE2CDC164D002D009C0241 /* 60-O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "60-O.png"; sourceTree = "<group>"; };
+		B4CE2CDD164D002D009C0241 /* 60-X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "60-X.png"; sourceTree = "<group>"; };
+		B4CE2CDE164D002D009C0241 /* 80-O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80-O.png"; sourceTree = "<group>"; };
+		B4CE2CDF164D002D009C0241 /* 80-X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80-X.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +208,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4BBDCCD165F7C38005F085F /* MessageUI.framework in Frameworks */,
+				B4C3A0CE165B4661003F1327 /* iAd.framework in Frameworks */,
+				B4BA789216368F9E0037D92F /* GameKit.framework in Frameworks */,
+				B4BA7881163664AE0037D92F /* AVFoundation.framework in Frameworks */,
 				B4AE84BA16329FBE00D99FBA /* UIKit.framework in Frameworks */,
 				B4AE84BC16329FBE00D99FBA /* Foundation.framework in Frameworks */,
 				B4AE84BE16329FBE00D99FBA /* CoreGraphics.framework in Frameworks */,
@@ -78,9 +231,44 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B4A43B28165DF1250077755C /* MoreAppIcons&Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				B4A43B29165DF1250077755C /* back-button.png */,
+				B4A43B2A165DF1250077755C /* Bubble-tapper.png */,
+				B4A43B2B165DF1250077755C /* driving-licence.png */,
+				B4A43B2C165DF1250077755C /* en-queen.png */,
+				B4A43B2D165DF1250077755C /* greetings.png */,
+				B4A43B2E165DF1250077755C /* Logos-caption.png */,
+				B4A43B2F165DF1250077755C /* Square-Puzzles.png */,
+			);
+			path = "MoreAppIcons&Buttons";
+			sourceTree = "<group>";
+		};
+		B4AACF76165A3AB900C39071 /* buttons-2 */ = {
+			isa = PBXGroup;
+			children = (
+				B4C3A0BB165B42FF003F1327 /* icons & Buttons */,
+				B4AACF78165A3AB900C39071 /* More-Apps.png */,
+				B4AACF79165A3AB900C39071 /* near-by.png */,
+				B4AACF7A165A3AB900C39071 /* one-player.png */,
+				B4AACF7B165A3AB900C39071 /* Options.png */,
+				B4AACF7C165A3AB900C39071 /* Reset.png */,
+				B4AACF7D165A3AB900C39071 /* start_button.png */,
+				B4AACF7E165A3AB900C39071 /* Two-Player.png */,
+				B43E13AB165D087700E1943C /* menu1.png */,
+			);
+			path = "buttons-2";
+			sourceTree = "<group>";
+		};
 		B4AE84AA16329FBE00D99FBA = {
 			isa = PBXGroup;
 			children = (
+				B4C700B1165653530030CBB6 /* 114-X-114.png */,
+				B4C700AE165653490030CBB6 /* 57-X-57.png */,
+				B4C2671416551521004954E0 /* Default@2x.png */,
+				B4C2671216551515004954E0 /* Default.png */,
+				B4AC76A1163545A200652DF1 /* Default-568h@2x.png */,
 				B4AE84BF16329FBE00D99FBA /* TicTac */,
 				B4AE84DD16329FBF00D99FBA /* TicTacTests */,
 				B4AE84B816329FBE00D99FBA /* Frameworks */,
@@ -91,7 +279,7 @@
 		B4AE84B616329FBE00D99FBA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B4AE84B516329FBE00D99FBA /* TicTac.app */,
+				B4AE84B516329FBE00D99FBA /* Tick-Tack-Toes.app */,
 				B4AE84D616329FBF00D99FBA /* TicTacTests.octest */,
 			);
 			name = Products;
@@ -100,6 +288,10 @@
 		B4AE84B816329FBE00D99FBA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B4BBDCCC165F7C38005F085F /* MessageUI.framework */,
+				B4C3A0CD165B4660003F1327 /* iAd.framework */,
+				B4BA789116368F9E0037D92F /* GameKit.framework */,
+				B4BA7880163664AE0037D92F /* AVFoundation.framework */,
 				B4AE84B916329FBE00D99FBA /* UIKit.framework */,
 				B4AE84BB16329FBE00D99FBA /* Foundation.framework */,
 				B4AE84BD16329FBE00D99FBA /* CoreGraphics.framework */,
@@ -116,6 +308,27 @@
 				B4AE84CB16329FBF00D99FBA /* ViewController.h */,
 				B4AE84CC16329FBF00D99FBA /* ViewController.m */,
 				B4AE84CE16329FBF00D99FBA /* ViewController.xib */,
+				B4AE84F01632AE6800D99FBA /* OnePlayer.h */,
+				B4AE84F11632AE6900D99FBA /* OnePlayer.m */,
+				B4AE84F21632AE6900D99FBA /* OnePlayer.xib */,
+				B4AE84F51632B0D800D99FBA /* TwoPlayer.h */,
+				B4AE84F61632B0D800D99FBA /* TwoPlayer.m */,
+				B4AE84F71632B0D800D99FBA /* TwoPlayer.xib */,
+				B4AE84FA1632B2D900D99FBA /* TicTacGame.h */,
+				B4AE84FB1632B2DA00D99FBA /* TicTacGame.m */,
+				B4AE84FC1632B2DA00D99FBA /* TicTacGame.xib */,
+				B43E1394165CC61700E1943C /* InfoAppController.h */,
+				B43E1395165CC61700E1943C /* InfoAppController.m */,
+				B43E1396165CC61800E1943C /* InfoAppController.xib */,
+				B4524489164A16EE00E3156D /* TicTacForOnePlayer.h */,
+				B452448A164A16EE00E3156D /* TicTacForOnePlayer.m */,
+				B452448B164A16EE00E3156D /* TicTacForOnePlayer.xib */,
+				B4C95BF0164BC78900A65CD5 /* TicTacGrid4.h */,
+				B4C95BF1164BC78900A65CD5 /* TicTacGrid4.m */,
+				B4C95BF2164BC78900A65CD5 /* TicTacGrid4.xib */,
+				B4C95BFA164BDAA700A65CD5 /* TicTacGrid5.h */,
+				B4C95BFB164BDAA700A65CD5 /* TicTacGrid5.m */,
+				B4C95BFC164BDAA700A65CD5 /* TicTacGrid5.xib */,
 				B4AE84C016329FBE00D99FBA /* Supporting Files */,
 			);
 			path = TicTac;
@@ -124,10 +337,21 @@
 		B4AE84C016329FBE00D99FBA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B4C3A0E8165BB8E5003F1327 /* bg.png */,
+				B4A43B28165DF1250077755C /* MoreAppIcons&Buttons */,
+				B4C3A0E3165BB72C003F1327 /* bgimage */,
+				B4C266E21654C667004954E0 /* TicTac Images */,
+				B4CE2CD9164D002D009C0241 /* xandoimages */,
+				B4CE2CC3164CD8C7009C0241 /* 320-X-320.png */,
+				B4A797E21660D26F0035A67D /* Select-Grid.png */,
+				B4CE2CC5164CD8E3009C0241 /* 300-X-300-1.png */,
+				B4CE2CB5164CD25C009C0241 /* 300-X-300.png */,
+				B4BA788D16368B5E0037D92F /* Apple_Ring.mp3 */,
+				B4BA788F16368DD50037D92F /* Beep.aiff */,
 				B4AE84C116329FBE00D99FBA /* TicTac-Info.plist */,
 				B4AE84C216329FBE00D99FBA /* InfoPlist.strings */,
-				B4AE84C516329FBE00D99FBA /* main.m */,
 				B4AE84C716329FBE00D99FBA /* TicTac-Prefix.pch */,
+				B4AE84C516329FBE00D99FBA /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -151,6 +375,69 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		B4C266E21654C667004954E0 /* TicTac Images */ = {
+			isa = PBXGroup;
+			children = (
+				B4C266E31654C667004954E0 /* bg_images */,
+			);
+			path = "TicTac Images";
+			sourceTree = "<group>";
+		};
+		B4C266E31654C667004954E0 /* bg_images */ = {
+			isa = PBXGroup;
+			children = (
+				B4AACF76165A3AB900C39071 /* buttons-2 */,
+				B4C266E41654C667004954E0 /* 1.png */,
+				B4C266E51654C667004954E0 /* 2.png */,
+				B4C266E61654C667004954E0 /* 3.png */,
+				B4C266E71654C667004954E0 /* 4.png */,
+				B4C266E81654C667004954E0 /* 5.png */,
+				B4C266EA1654C667004954E0 /* bg1.png */,
+				B4C266EB1654C667004954E0 /* bg2.png */,
+				B4C266EC1654C667004954E0 /* bg3.png */,
+				B4C266ED1654C667004954E0 /* bg4.png */,
+				B4C267101654DD52004954E0 /* bg5.png */,
+			);
+			path = bg_images;
+			sourceTree = "<group>";
+		};
+		B4C3A0BB165B42FF003F1327 /* icons & Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				B4C3A0BC165B42FF003F1327 /* 1024-X-1024-1.png */,
+				B4C3A0BD165B42FF003F1327 /* 114-X-114.png */,
+				B4C3A0BE165B42FF003F1327 /* 3-x-3-Grid.png */,
+				B4C3A0BF165B42FF003F1327 /* 4-X-4-Grid.png */,
+				B4C3A0C0165B42FF003F1327 /* 5-X-5-Grid.png */,
+				B4C3A0C1165B42FF003F1327 /* 512-X-512.png */,
+				B4C3A0C2165B42FF003F1327 /* 57-X-57.png */,
+			);
+			path = "icons & Buttons";
+			sourceTree = "<group>";
+		};
+		B4C3A0E3165BB72C003F1327 /* bgimage */ = {
+			isa = PBXGroup;
+			children = (
+				B4C3A0E4165BB72C003F1327 /* 320-X-420-22.png */,
+				B4C3A0E5165BB72C003F1327 /* 320-X-4200.png */,
+			);
+			path = bgimage;
+			sourceTree = "<group>";
+		};
+		B4CE2CD9164D002D009C0241 /* xandoimages */ = {
+			isa = PBXGroup;
+			children = (
+				B4C3A0D8165BA2C6003F1327 /* 320-X-420.png */,
+				B4CE2CDA164D002D009C0241 /* 100-O.png */,
+				B4CE2CDB164D002D009C0241 /* 100-X.png */,
+				B4CE2CDC164D002D009C0241 /* 60-O.png */,
+				B4CE2CDD164D002D009C0241 /* 60-X.png */,
+				B4CE2CDE164D002D009C0241 /* 80-O.png */,
+				B4CE2CDF164D002D009C0241 /* 80-X.png */,
+			);
+			path = xandoimages;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -168,7 +455,7 @@
 			);
 			name = TicTac;
 			productName = TicTac;
-			productReference = B4AE84B516329FBE00D99FBA /* TicTac.app */;
+			productReference = B4AE84B516329FBE00D99FBA /* Tick-Tack-Toes.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B4AE84D516329FBF00D99FBA /* TicTacTests */ = {
@@ -196,7 +483,7 @@
 		B4AE84AC16329FBE00D99FBA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = eminosoft;
 			};
 			buildConfigurationList = B4AE84AF16329FBE00D99FBA /* Build configuration list for PBXProject "TicTac" */;
@@ -224,6 +511,66 @@
 			files = (
 				B4AE84C416329FBE00D99FBA /* InfoPlist.strings in Resources */,
 				B4AE84D016329FBF00D99FBA /* ViewController.xib in Resources */,
+				B4AE84F41632AE6900D99FBA /* OnePlayer.xib in Resources */,
+				B4AE84F91632B0D800D99FBA /* TwoPlayer.xib in Resources */,
+				B4AE84FE1632B2DA00D99FBA /* TicTacGame.xib in Resources */,
+				B4AC76A2163545A200652DF1 /* Default-568h@2x.png in Resources */,
+				B4BA788E16368B5E0037D92F /* Apple_Ring.mp3 in Resources */,
+				B4BA789016368DD50037D92F /* Beep.aiff in Resources */,
+				B452448D164A16EE00E3156D /* TicTacForOnePlayer.xib in Resources */,
+				B4C95BF4164BC78900A65CD5 /* TicTacGrid4.xib in Resources */,
+				B4C95BFE164BDAA700A65CD5 /* TicTacGrid5.xib in Resources */,
+				B4CE2CB6164CD25C009C0241 /* 300-X-300.png in Resources */,
+				B4CE2CC4164CD8C7009C0241 /* 320-X-320.png in Resources */,
+				B4CE2CC6164CD8E3009C0241 /* 300-X-300-1.png in Resources */,
+				B4CE2CE0164D002D009C0241 /* 100-O.png in Resources */,
+				B4CE2CE1164D002D009C0241 /* 100-X.png in Resources */,
+				B4CE2CE2164D002D009C0241 /* 60-O.png in Resources */,
+				B4CE2CE3164D002D009C0241 /* 60-X.png in Resources */,
+				B4CE2CE4164D002D009C0241 /* 80-O.png in Resources */,
+				B4CE2CE5164D002D009C0241 /* 80-X.png in Resources */,
+				B4C266F81654C667004954E0 /* 1.png in Resources */,
+				B4C266F91654C667004954E0 /* 2.png in Resources */,
+				B4C266FA1654C667004954E0 /* 3.png in Resources */,
+				B4C266FB1654C667004954E0 /* 4.png in Resources */,
+				B4C266FC1654C667004954E0 /* 5.png in Resources */,
+				B4C266FE1654C667004954E0 /* bg1.png in Resources */,
+				B4C266FF1654C667004954E0 /* bg2.png in Resources */,
+				B4C267001654C667004954E0 /* bg3.png in Resources */,
+				B4C267011654C667004954E0 /* bg4.png in Resources */,
+				B4C267111654DD52004954E0 /* bg5.png in Resources */,
+				B4AACF80165A3AB900C39071 /* More-Apps.png in Resources */,
+				B4AACF81165A3AB900C39071 /* near-by.png in Resources */,
+				B4AACF82165A3AB900C39071 /* one-player.png in Resources */,
+				B4AACF83165A3AB900C39071 /* Options.png in Resources */,
+				B4AACF84165A3AB900C39071 /* Reset.png in Resources */,
+				B4AACF85165A3AB900C39071 /* start_button.png in Resources */,
+				B4AACF86165A3AB900C39071 /* Two-Player.png in Resources */,
+				B4C3A0C3165B42FF003F1327 /* 1024-X-1024-1.png in Resources */,
+				B4C3A0C4165B42FF003F1327 /* 114-X-114.png in Resources */,
+				B4C3A0C5165B42FF003F1327 /* 3-x-3-Grid.png in Resources */,
+				B4C3A0C6165B42FF003F1327 /* 4-X-4-Grid.png in Resources */,
+				B4C3A0C7165B42FF003F1327 /* 5-X-5-Grid.png in Resources */,
+				B4C3A0C8165B42FF003F1327 /* 512-X-512.png in Resources */,
+				B4C3A0C9165B42FF003F1327 /* 57-X-57.png in Resources */,
+				B4C3A0CB165B439C003F1327 /* 57-X-57.png in Resources */,
+				B4C3A0CC165B43A7003F1327 /* 114-X-114.png in Resources */,
+				B4C3A0D9165BA2C6003F1327 /* 320-X-420.png in Resources */,
+				B4C3A0E6165BB72C003F1327 /* 320-X-420-22.png in Resources */,
+				B4C3A0E7165BB72C003F1327 /* 320-X-4200.png in Resources */,
+				B4C3A0E9165BB8E5003F1327 /* bg.png in Resources */,
+				B43E1398165CC61800E1943C /* InfoAppController.xib in Resources */,
+				B43E13AC165D087700E1943C /* menu1.png in Resources */,
+				B4A43B30165DF1250077755C /* back-button.png in Resources */,
+				B4A43B31165DF1250077755C /* Bubble-tapper.png in Resources */,
+				B4A43B32165DF1250077755C /* driving-licence.png in Resources */,
+				B4A43B33165DF1250077755C /* en-queen.png in Resources */,
+				B4A43B34165DF1250077755C /* greetings.png in Resources */,
+				B4A43B35165DF1250077755C /* Logos-caption.png in Resources */,
+				B4A43B36165DF1250077755C /* Square-Puzzles.png in Resources */,
+				B4A797E31660D26F0035A67D /* Select-Grid.png in Resources */,
+				B47D68F31675A11000236E93 /* Default.png in Resources */,
+				B47D68F41675A11A00236E93 /* Default@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +608,13 @@
 				B4AE84C616329FBE00D99FBA /* main.m in Sources */,
 				B4AE84CA16329FBE00D99FBA /* AppDelegate.m in Sources */,
 				B4AE84CD16329FBF00D99FBA /* ViewController.m in Sources */,
+				B4AE84F31632AE6900D99FBA /* OnePlayer.m in Sources */,
+				B4AE84F81632B0D800D99FBA /* TwoPlayer.m in Sources */,
+				B4AE84FD1632B2DA00D99FBA /* TicTacGame.m in Sources */,
+				B452448C164A16EE00E3156D /* TicTacForOnePlayer.m in Sources */,
+				B4C95BF3164BC78900A65CD5 /* TicTacGrid4.m in Sources */,
+				B4C95BFD164BDAA700A65CD5 /* TicTacGrid5.m in Sources */,
+				B43E1397165CC61800E1943C /* InfoAppController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,7 +670,8 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasa Rao N (VZ77D94DFY)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasa Rao N (VZ77D94DFY)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -331,6 +686,8 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PROVISIONING_PROFILE = "2580B282-4D78-4811-8E0B-085E7A4AA918";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2580B282-4D78-4811-8E0B-085E7A4AA918";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -341,7 +698,8 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Srinivasa Rao N (VZ77D94DFY)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Srinivasa Rao N (VZ77D94DFY)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
@@ -350,6 +708,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "2580B282-4D78-4811-8E0B-085E7A4AA918";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2580B282-4D78-4811-8E0B-085E7A4AA918";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -361,7 +721,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TicTac/TicTac-Prefix.pch";
 				INFOPLIST_FILE = "TicTac/TicTac-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "Tick-Tack-Toes";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -372,7 +733,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TicTac/TicTac-Prefix.pch";
 				INFOPLIST_FILE = "TicTac/TicTac-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				PRODUCT_NAME = "Tick-Tack-Toes";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -430,6 +792,7 @@
 				B4AE84EA16329FBF00D99FBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4AE84EB16329FBF00D99FBA /* Build configuration list for PBXNativeTarget "TicTacTests" */ = {
 			isa = XCConfigurationList;
@@ -438,6 +801,7 @@
 				B4AE84ED16329FBF00D99FBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
